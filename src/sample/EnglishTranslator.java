@@ -97,12 +97,12 @@ public class EnglishTranslator {
 		this.map = map;
 	}
 
-	public EnglishIn(Map<String, String> map) {
+	public EnglishTranslator(Map<String, String> map) {
 		super();
 		this.map = map;
 	}
 
-	public EnglishIn() {
+	public EnglishTranslator() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
